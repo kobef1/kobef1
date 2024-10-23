@@ -1,11 +1,7 @@
 # Hi there 👋
 
-<a href="https://github.com/Breadcrumbskobef1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Breadcrumbskobef1
-" />
-</a>
-<a href="https://github.com/Breadcrumbskobef1
-/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Breadcrumbskobef1
-&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobef1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/kobef1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobef1)](https://github.com/kobef1/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kobef1/github-readme-stats)
