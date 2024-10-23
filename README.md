@@ -1,7 +1,8 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobef1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/kobef1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobef1)](https://github.com/kobef1/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kobef1/github-readme-stats)
+<a href="https://github.com/kobef1/github-readme-stats">
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=kobef1&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/kobef1/github-readme-stats"></img>
+</a>
+<a href="https://github.com/kobef1/github-readme-stats">
+  <img height=262 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobef1&layout=donut"></img>
+</a>
